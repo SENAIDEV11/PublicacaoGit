@@ -1,0 +1,10 @@
+O que é versionamento de software e qual é a sua importância no desenvolvimento de projetos?
+Quais são as principais vantagens de utilizar sistemas de controle de versão, como o Git, em projetos de desenvolvimento de software?
+Quais são os principais sistemas de controle de versão disponíveis atualmente?
+Como funciona o processo de criação e gerenciamento de um repositório em um sistema de controle de versão?
+O que são commits e como eles são úteis para controlar as mudanças em um projeto?
+Como os branches são utilizados no versionamento de software? Quais são os benefícios de trabalhar com branches em projetos de desenvolvimento?
+O que é uma mesclagem (merge) no contexto do versionamento de código? Como ela é realizada?
+Quais são os principais desafios que podem surgir ao trabalhar com vários desenvolvedores em um mesmo projeto e como o versionamento de software pode ajudar a superá-los?
+Quais são as melhores práticas para escrever mensagens de commit significativas e úteis?
+Como resolver conflitos de mesclagem (merge) que ocorrem quando dois ou mais desenvolvedores modificam o mesmo trecho de código?
